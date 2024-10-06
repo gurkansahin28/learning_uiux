@@ -12,6 +12,8 @@ in the head section of the "index.html" file;
 
   <strong>link rel = "stylesheet" href = "style.css"</strong>
   
-  script src = "logic.js"
+  and
+  
+  <strong>script src = "logic.js"</strong>
 
 
